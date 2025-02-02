@@ -9,3 +9,5 @@ Known issues:
 - Dark mode shows a white background for the grid items
 
 ![image](https://github.com/user-attachments/assets/f045b650-05b4-48bb-b875-5e148cdb6255)
+
+Deepseek R1 provided the script!
